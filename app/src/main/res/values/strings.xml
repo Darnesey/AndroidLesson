@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLesson</string>
+    <string name="exampleOutput">Here is an example on how to print text. Look inside
+        MainActivity.java for details on how this works.\n
+        The text is stored inside the strings.xml file for easy reference.\n
+        Also look inside the properties menu for the example button. See how it links to the method
+        being called when the button is clicked.</string>
+</resources>
