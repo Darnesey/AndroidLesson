@@ -1,0 +1,1 @@
+This is a simple application to get your hands dirty with and start adding buttons and features to. You can also use this to test your ability to work in AndroidStudio.
